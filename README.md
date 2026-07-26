@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0986-interval-list-intersections](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/0986-interval-list-intersections) |
 ## Array
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0986-interval-list-intersections](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1331-rank-transform-of-an-array](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
