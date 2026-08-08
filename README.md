@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Divide and Conquer
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
