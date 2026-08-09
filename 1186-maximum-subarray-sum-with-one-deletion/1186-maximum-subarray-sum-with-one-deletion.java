@@ -1,24 +1,16 @@
 class Solution {
     public int maximumSum(int[] arr) {
-        int nodelete = arr[0];
-        int onedelete = Integer.MIN_VALUE;
+        int noDelete = arr[0];
+        int oneDelete = 0;
         int res = arr[0];
 
-        for(int i=1; i<arr.length; i++){
-            int previous_nodelete = nodelete;
-            int previous_onedelete = onedelete;
+        for (int i = 1; i < arr.length; i++) {
+            int prevNoDelete = noDelete;
+            noDelete = Math.max(arr[i], noDelete + arr[i]);
 
-            nodelete = Math.max(nodelete+arr[i], arr[i]);
-            
-            int v2;
-            if(previous_onedelete == Integer.MIN_VALUE){
-                v2 = arr[i];
-            }else{
-                v2 = previous_onedelete + arr[i];
-            }
-            onedelete = Math.max(v2, previous_nodelete);
+            oneDelete = Math.max(prevNoDelete, oneDelete + arr[i]);
 
-            res = Math.max(res, Math.max(onedelete, nodelete)); 
+            res = Math.max(res, Math.max(noDelete, oneDelete));
         }
         return res;
     }
