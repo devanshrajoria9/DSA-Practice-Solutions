@@ -10,30 +10,65 @@
  */
 class Solution {
     public ListNode swapPairs(ListNode head) {
-        int size = 2;
-        if(head == null || head.next == null){
+
+        if (head == null || head.next == null) {
             return head;
         }
         ListNode left = head;
-        ListNode res = left.next;
+        ListNode res = null;
         ListNode prevLeft = null;
-    
-        while(left != null && left.next != null){
-        
-            ListNode right = left.next;
-            ListNode next = right.next;
-            // teeno mil gye left right next ab --
-//swap
-            right.next = left;
-            left.next = next;
+        ListNode right;
+        int size = 2;
 
-            if(prevLeft != null){
-                prevLeft.next = right;
+        while (true) {
+            right = left;
+
+            for (int i = 0; i < size - 1; i++) {
+
+                if (right == null)
+                    break;
+
+                right = right.next;
             }
 
+            if (right == null) {
+                break;
+            }
+            ListNode nextLeft = right.next;
+
+            right = reverse(left, size);
+
+            if (prevLeft != null) {
+                prevLeft.next = right;
+            }
+            if (res == null) {
+                res = right;
+            }
             prevLeft = left;
-            left = next;
+
+            left = nextLeft;
+        }
+
+        if (prevLeft != null && left != null) {
+            prevLeft.next = left;
         }
         return res;
+    }
+
+    private ListNode reverse(ListNode left, int size) {
+
+        ListNode curr = left;
+        ListNode prev = null;
+        int i = 0;
+        while (i < size) {
+            ListNode next = curr.next;
+            curr.next = prev;
+
+            prev = curr;
+            curr = next;
+
+            i++;
+        }
+        return prev;
     }
 }
