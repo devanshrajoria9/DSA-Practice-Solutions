@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
