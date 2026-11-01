@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0217-contains-duplicate](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Divide and Conquer
