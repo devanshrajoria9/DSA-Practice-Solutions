@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/devanshrajoria9/DSA-Practice-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Number Theory
 |  |
 | ------- |
